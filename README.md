@@ -1,4 +1,4 @@
-📘 Curso de SQL com SQLite – Estudo Prático com TEO MY WHAY
+📘 Curso de SQL com SQLite – Estudo Prático com o TEO
 
 👋 Olá!
 
@@ -63,7 +63,7 @@ Este repositório continuará sendo atualizado conforme avanço com os conteúdo
 
 🤝 Agradecimentos:
 
-Agradeço ao Teo do canal TEO MY WHAY pela didática clara e prática. Recomendo fortemente a quem está começando!
+Agradeço ao Teo do canal TEO ME WHAY pela didática clara e prática. Recomendo para quem está começando!
 
 📫 Contato:
 
